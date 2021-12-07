@@ -5,6 +5,4 @@
 ## Setup This Project
 ### Install DLIB & OpenCV
 - You can install the dlib library by typing ```conda install -c conda-forge dlib``` in your terminal. Anaconda must be installed.
-- The easiest way to install opencv is to download it from PyPI. It's going to install the library itself and its prerequisites as well. You can install the opencv library by typing ```python
-pip install opencv-python``` 
-in your terminal.
+- The easiest way to install opencv is to download it from PyPI. It's going to install the library itself and its prerequisites as well. You can install the opencv library by typing ```pip install opencv-python``` in your terminal.
