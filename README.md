@@ -7,7 +7,7 @@
 - You can install the dlib library by typing ```conda install -c conda-forge dlib``` in your terminal. Anaconda must be installed.
 - The easiest way to install opencv is to download it from PyPI. It's going to install the library itself and its prerequisites as well. You can install the opencv library by typing ```pip install opencv-python``` in your terminal.
 - And then you can run the project with main.py. Make sure you have **"shape_predictor_68_face_landmarks.dat"** file in your project location.
-- [Download shape_predictor_68_face_landmarks.dat](https://github.com/coneypo/Dlib_face_detection_from_camera/raw/master/data/dlib/shape_predictor_68_face_landmarks.dat)
+- [Download shape_predictor_68_face_landmarks.dat](https://github.com/coneypo/Dlib_face_detection_from_camera/raw/master/data/dlib/shape_predictor_68_face_landmarks.dat) I could not add it to this project because it is larger than 25mb
 ## How this is working?
 The project takes the image from the real time camera with the opencv library. We can process this data with dlib and scan 68 points on our face.
 
