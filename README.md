@@ -13,6 +13,6 @@ The project takes the image from the real time camera with the opencv library. W
 ![Xe](https://i.imgur.com/uAvW69p.png) ![Xe2](https://i.imgur.com/0bUVmgt.png)
 ![Xe3](https://i.imgur.com/GAK10bV.png) ![Xe4](https://i.imgur.com/rXmOPGz.png)
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://i.imgur.com/uAvW69p.png)  |  ![](https://i.imgur.com/0bUVmgt.png)
+Solarized dark             |  Solarized Ocean          | K                        |  DDSSD
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://i.imgur.com/uAvW69p.png)  |  ![](https://i.imgur.com/0bUVmgt.png)  |  ![](https://i.imgur.com/GAK10bV.png)  |  ![](https://i.imgur.com/rXmOPGz.png)
