@@ -10,5 +10,5 @@
 ## How this is working?
 The project takes the image from the real time camera with the opencv library. We can process this data with dlib and scan 68 points on our face.
 
-![SMR](https://i.imgur.com/MeYBEeJ.png)
 ![Xe](https://i.imgur.com/uAvW69p.png)
+![Xe2](https://i.imgur.com/0bUVmgt.png)
