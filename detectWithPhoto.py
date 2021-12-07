@@ -1,7 +1,6 @@
 import cv2
 import dlib
 
-cap = cv2.VideoCapture(0)
 detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor("shape_68.dat")
 
@@ -27,6 +26,5 @@ while True:
     if cv2.waitKey(delay=1)== 27: 
             break
 
-cap.release()
 cv2.destroyAllWindows()
 exit()
