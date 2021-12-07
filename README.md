@@ -3,7 +3,6 @@
 ### In this project, we have detected our face with dlib and opencv libraries.
 ![XhW](https://i.imgur.com/qHAcfhX.gif)
 ## Setup This Project
-### Install DLIB
+### Install DLIB & OpenCV
 - You can install the dlib library by typing ```conda install -c conda-forge dlib``` in your terminal. Anaconda must be installed.
-### Install OpenCV
 - You can install the opencv library by typing ```pip install opencv-python``` in your terminal.
