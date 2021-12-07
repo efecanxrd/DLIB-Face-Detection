@@ -2,7 +2,7 @@ import cv2
 import dlib
 
 detector = dlib.get_frontal_face_detector()
-predictor = dlib.shape_predictor("shape_68.dat")
+predictor = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat")
 
 def node():
     frame = cv2.imread("nn.jpg")
